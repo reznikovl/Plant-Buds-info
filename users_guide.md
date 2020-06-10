@@ -6,7 +6,7 @@ Description: an interactive self-care journal where you record your mood and sle
 
 Description: log your mood and sleep every day in our simple journal form, sleep goal is also displayed on top
 
-![journal_form.png](/journal_form.png)
+![form.png](/form.png)
 
 ## Feature 2: plant
 
@@ -14,9 +14,16 @@ Description: see your plant grow slowly as you log more entries. it grows more f
 
 ![plant.png](/plant.png)
 
-## Feature 3: setting sleep goal
+## Feature 3: toast notifications
+Description: notifications that warn you when you have submitted today already, and when your plant level has reached its maximum and needs to be reset to grow.
 
-Description: if you have a different sleep schedule than the default, or want to change it at any time, you may change your sleep goal in settings.
+![toasts.png](/toasts.png)
+
+## Feature 3: setting sleep goal, resetting plant level
+
+Goal Description: if you have a different sleep schedule than the default, or want to change it at any time, you may change your sleep goal in settings.
+
+Reset description: deletes the plant level from the database. All entries are preserved, but you are able to see your plant grow once again!
 
 ![settings.png](/settings.png)
 
@@ -24,10 +31,6 @@ Description: if you have a different sleep schedule than the default, or want to
 
 Description: with the data from your previous journal entires, we created a graph to represent your sleep and mood over time.
 
-![care-graph.png](/care-graph.png)
-
-## Feature 5: history of entries
-
 Description: all of your previous journal entries are listed in the history tab.
 
-![care-history.png](/care-history.png)
+![history.png](/history.png)
