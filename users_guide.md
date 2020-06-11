@@ -27,10 +27,10 @@ Reset description: deletes the plant level from the database. All entries are pr
 
 ![settings.png](/settings.png)
 
-## Feature 4: graph of your mood and sleep history
+## Feature 4: sleep and mood graph, journal log  
 
-Description: with the data from your previous journal entires, we created a graph to represent your sleep and mood over time.
+Graph Description: with the data from your previous journal entires, we created a graph to represent your sleep and mood over time
 
-Description: all of your previous journal entries are listed in the history tab.
+Journal Log Description: all previous journal entries are also listed for record and reflection.
 
 ![history.png](/history.png)
