@@ -11,6 +11,4 @@
 
 ## Links
 
-- Source Code: https://github.com/ucsb-cs48-s20/project-s2-t1-care
-- React Storybook: https://github.com/ucsb-cs48-s20/project-s2-t1-care-storybook
-- Production Link: https://cs48-s20-s2-t1-prod.herokuapp.com/
+- Source Code: https://github.com/reznikovl/project-s2-t1-care
